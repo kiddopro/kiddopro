@@ -1,5 +1,7 @@
 <h2><b> 👋 Hi, I’m Martín and i'm Full Stack Developer!</b></h2><br>
 
+![image](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
+
 - 📖 I’m studying an IT career on Utec University
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning MERN Stack 
