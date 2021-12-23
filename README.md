@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning MERN Stack 
 - 💞️ I’m looking to collaborate with others
 - :smiley: Pronouns: he/him
-- :zap: Fun fact: I was an athlete
+- :zap: Fun fact: I'm not funny
 <br>
 
 
