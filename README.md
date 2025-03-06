@@ -54,10 +54,3 @@
 
 <br><br>
 
-# ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kiddopro&show_icons=true)  
-
-# ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kiddopro)  
-
-# ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kiddopro)  
-
-# ![Profile views](https://gpvc.arturio.dev/kiddopro)
