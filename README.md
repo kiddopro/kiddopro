@@ -4,10 +4,8 @@
 
 - 📖 I’m studying an IT career on Utec University
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning MERN Stack 
+- 🌱 I’m currently learning TypeScript 
 - 💞️ I’m looking to collaborate with others
-- :smiley: Pronouns: he/him
-- :zap: Fun fact: I'm not funny
 <br>
 
 
